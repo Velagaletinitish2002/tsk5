@@ -1,0 +1,39 @@
+.ig{
+    max-width: 100%;
+    height: auto;
+}
+.display{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.center{
+    text-align: center !important;
+}
+.margin{
+    margin-top: 16px !important;
+}
+.colr{
+    color:rgb(225, 228, 231);
+}
+.fnt{
+    font-size: 36 !important;
+}
+.pd{
+    padding: 8px 16px !important;
+}
+.opc{
+    opacity: 0.75;
+}
+.clor{
+    color: aliceblue;
+    background-color: black;
+}
+.cr{
+    color: white;
+}
+*{
+    box-sizing: inherit;
+}
